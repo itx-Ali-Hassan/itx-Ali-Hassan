@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML , CSS , JS but I also code in<br>Python , Java , C's ( C , C++ , C# ) Kotlin & Bash<br><br>🌱 I’m currently learning about OS ( Operating System ) &<br>Game DEV<br><br>💬 Ask me anything about Programing , OOP and<br>Web & Mobile APP DEV<br><br>⚡ Fun fact I almost Know Every Programing Language &<br>I also code in WordPress
+🔭 I’m currently working on HTML , CSS , JS but I also code in<br>Python , Java , C's ( C , C++ , C# ) Kotlin & Bash<br><br>🌱 I’m currently learning about OS ( Operating System ) &<br>Game DEV<br><br>💬 Ask me anything about Programing , OOP and<br>Web & Mobile APP DEV<br><br>⚡ Fun fact I almost Know Every Programing Language
 
 
 ## 🌐 Socials:
