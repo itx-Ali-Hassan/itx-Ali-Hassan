@@ -44,7 +44,7 @@ Scan any of the QR codes below to reach out, collaborate, or just say hi!
 
 | **LinkedIn**                                                       | **Instagram**                                                        | **Telegram**                                                       | **Gmail**                                                    |
 |:------------------------------------------------------------------:|:--------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------:|
-| <img title="" src="QR/LinkedIn.png" alt="LinkedIn QR" width="150"> | <img title="" src="QR/Instagram.svg" alt="Instagram QR" width="150"> | <img title="" src="QR/telegram.png" alt="Telegram QR" width="150"> | <img title="" src="QR/Gmail.png" alt="Gmail QR" width="150"> |
+| <img title="" src="QR/LinkedIn.png" alt="LinkedIn QR" width="150"> | <img title="" src="QR/instagram.svg" alt="Instagram QR" width="150"> | <img title="" src="QR/telegram.png" alt="Telegram QR" width="150"> | <img title="" src="QR/Gmail.png" alt="Gmail QR" width="150"> |
 | [Connect on LinkedIn](https://linkedin.com/in/itx-ali-hassan)      | [Follow on Instagram](https://instagram.com/itx.alihassanch)        | [Message on Telegram](https://t.me/ItxAliHassan)                   | [Send Email](mailto:leotard-mud-scorer@duck.com)            |
 
 ---
